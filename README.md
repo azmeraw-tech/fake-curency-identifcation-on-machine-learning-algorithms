@@ -1,2 +1,2 @@
 # fake-curency-identifcation-on-machine-learning-algorithms
-comparative analysis on different machine learning algorithms for the purpose of fake currency identification
+The use of analytical data in the world to predict fake currency is increasingly interesting to develop. In this hub, three popular machine learning techniques, namely Naïve Bayes, SVM, and KNN, are applied to the dataset. The dataset is used to compare the performance of the proposed techniques. The results of this study confirm that the SVM algorithm has the highest performance in terms of accuracy and precision, while Naïve Bayes training time is the best compared to the others: 0.0034291744232177734s
